@@ -1,27 +1,40 @@
 ## Oii 👋, eu sou a Lívia
 
 - 🎓 Graduanda em Sistemas de Informação
+- 👩🏽‍💻 Estudante Front-end | Data Analytics
 
-<details>
-  <summary><b>🛠️ Algumas linguagens e ferramentas:</b></summary>
-  <br/>
-  <div style="display: inline_block">
-    <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-    <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-    <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
-    <img align="center" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg"/>
-    <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-    <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </div>
-</details>
-  
-<div align="center">
-  <a href="https://github.com/livalves">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=livalves&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,issues"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livalves&layout=compact&langs_count=7&theme=radical"/>
+#### 💻 Algumas linguagens e ferramentas:
+
+<div style="display: inline_block">
+  <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+  <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+  <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
+  <img align="center" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg"/>
+  <img align="center" alt="Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>    
+  <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>  
+  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>    
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+  <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
+<br>
+  
+<details>
+  <summary><b> ⚙️ GitHub </b></summary>
+  <br>
+    <p align="center">
+        <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=livalves&hide_border=false&theme=radical" />
+    </p>
+    <p align="center">
+        <a href="https://github.com/livalves">
+        <img height="120em" src="https://github-readme-stats.vercel.app/api?username=livalves&hide_title=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,issues"/>
+        <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livalves&hide_title=true&layout=compact&langs_count=7&theme=radical"/>
+    </p>
+</details>
 
 #
   
