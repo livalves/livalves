@@ -1,7 +1,7 @@
 ## Oii 👋, eu sou a Lívia
 
-- 🎓 Graduanda em Sistemas de Informação
-- 👩🏽‍💻 Estudante Front-end | Data Analytics
+- 🎓 Graduada em Sistemas de Informação
+- 👩🏽‍💻 Front-end | Data Analytics
 
 #### 💻 Algumas linguagens e ferramentas:
 
@@ -12,7 +12,7 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
   <img align="center" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg"/>
   <img align="center" alt="Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>    
-  <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+  <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>  
   <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
